@@ -6,3 +6,4 @@ I will watch a Git video by Linus Torvalds https://www.youtube.com/watch?v=4XpnK
 I will try Git
 Hello Hey how are you?
 I will create my first repository today.
+I will create a Github account today.
